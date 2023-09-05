@@ -1,7 +1,6 @@
 <h1 align="center">DevPizzas</h1>
 <h1 align="center">Sobre o projeto</h1>
-<h3 align="left">Projeto desenvolvido do zero, tanto a sua API, backend, front-end e o mobile, utlizando o Javascript, Typescript, NextJS, Postgre, Prisma e Expo para o mobile.
-Sistema criado para uma pizzaria aonde quem trabalha na cozinha vizualizam os pedidos realizados pelo garçom via mobile, o projeto utiliza o  layout Responsivo, e a versão mobile, na qual só o garçom vai ter acesso, o mesmo vai abrir/fechar os pedidos das mesas que possuim na pizzaria.</h3>
+<h3 align="left">Projeto desenvolvido do zero, tanto a sua API, backend, front-end e o mobile, utlizando o Javascript, Typescript, NextJS, Postgre, Prisma e Expo para o mobile. Sistema criado para uma pizzaria aonde quem trabalha na cozinha visualizam os pedidos realizados pelo garçom via mobile, o projeto utiliza o layout Responsivo, e a versão mobile, na qual só o garçom vai ter acesso, o mesmo vai abrir/fechar os pedidos das mesas que possuem na pizzaria.</h3>
 <hr/><br/>
 <div align="center">
     <h2>Tela de login</h2>
